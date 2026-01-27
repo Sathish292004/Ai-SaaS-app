@@ -1,8 +1,8 @@
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/imaginify.git
-cd imaginify
+git clone https://github.com/Sathish292004/Ai-SaaS-app.git
+cd Ai-SaaS-app
 ```
 
 **Installation**
